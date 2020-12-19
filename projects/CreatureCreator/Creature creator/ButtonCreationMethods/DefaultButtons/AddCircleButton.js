@@ -1,6 +1,6 @@
 //adds a circle to the creature
 function generateAddCircleButton(x, y, w, h, modeNumber) {
-    let buttonText = "Add Circle";
+    let buttonText = "Add Smiley Face";
     let mode = new Mode();
 
     mode.drawEffects = function () {
